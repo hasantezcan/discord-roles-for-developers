@@ -2,3 +2,4 @@
 
 - [x] Most Languages 
 - [ ] Logos
+- [ ] Languages Freamworks, Librarys, etc 
